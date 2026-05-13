@@ -39,7 +39,7 @@
             <mxPoint x="1832" y="1296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t0errih1P285Di1807IT-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Prompt Based&lt;/font&gt;" vertex="1">
+        <mxCell id="t0errih1P285Di1807IT-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Standardized Prompts&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="240" x="1588" y="1149" as="geometry" />
         </mxCell>
         <mxCell id="t0errih1P285Di1807IT-14" edge="1" parent="1" source="t0errih1P285Di1807IT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="t0errih1P285Di1807IT-16">
